@@ -1,4 +1,4 @@
-OJECTID,títle,creator,type,dimensiones,date,format,producción,distribución,location,latitude,longitude,Filename 
+objectid,title,creator,type,dimensiones,date,format,producción,distribución,location,latitude,longitude,filename 
 GZT_DOC161,"Bogotá (la desmesura, a Melville)",Gustavo Zalamea,Tarjeta postal,"11x15,5 cms",1994,image/jpeg,Jaime Vargas,Taller Arte 2 Gráfico,Monserrate,4.5962015,-74.0640615,GZT_DOC161.JPG
 GZT_DOC162,El mar en la plaza,Gustavo Zalamea,Tarjeta postal,"11x15,5 cms",1994,image/jpeg,Jaime Vargas,Taller Arte 2 Gráfico,Plaza de Bolívar,4.5963704,-74.0760387,GZT_DOC162.JPG
 GZT_DOC163,San Jorge y Monserrate,Gustavo Zalamea,Tarjeta postal,"11x15,5 cms",1994,image/jpeg,Jaime Vargas,Taller Arte 2 Gráfico,Monserrate,4.5949595,-74.0556611,GZT_DOC163.JPG
